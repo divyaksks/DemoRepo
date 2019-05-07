@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class LoginTest {
 
 	@Test
-	public void test1() {
+	public void test2() {
 		System.out.println("Test Login Method");
 	}
 }
